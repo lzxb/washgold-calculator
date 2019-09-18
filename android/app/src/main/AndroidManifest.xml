@@ -8,7 +8,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="washgold_calculator"
+        android:label="淘金计算器"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
