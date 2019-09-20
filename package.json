@@ -1,0 +1,11 @@
+{
+  "name": "washgold_calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lzxb/washgold-calculator.git",
+  "author": "lzxb <1340641314@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
